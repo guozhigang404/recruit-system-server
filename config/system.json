@@ -1,0 +1,8 @@
+{
+  "port": 8021,
+  "cors": [
+    "null",
+    "http://www.gzg98.com:8021",
+    "http://gzg98.com:8021"
+  ]
+}

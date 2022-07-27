@@ -1,0 +1,15 @@
+{
+    "watch": [
+      "*.js",
+      "*.json"
+    ],
+  "ignore": [
+    "package*.json",
+    "nodemon.json",
+    "node_modules",
+    "public",
+    ".idea",
+    ".gitignore"
+  ]
+}
+

@@ -1,0 +1,38 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "connect-history-api-fallback": "^1.6.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "exceljs": "^4.3.0",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "log4js": "^6.4.1",
+    "md5": "^2.3.0",
+    "mockjs": "^1.1.0",
+    "moment": "^2.29.3",
+    "multer": "^1.4.2",
+    "mysql2": "^2.3.3",
+    "path-to-regexp": "^6.2.0",
+    "sequelize": "^6.17.0",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
